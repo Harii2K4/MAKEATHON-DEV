@@ -11,3 +11,6 @@ deepseek
 openai 
 redis 
 tree-sitter
+langchain_community
+langchain-openai 
+graphviz
